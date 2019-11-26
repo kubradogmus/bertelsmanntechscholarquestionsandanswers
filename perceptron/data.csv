@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov 26 11:18:37 2019
+
+@author: kdogmus
+"""
+
+import pandas as pd
+
+df = pd.read_csv (r'C:\Users\kdogmus\Desktop\perceptrondata\data.csv')
+print (df)
