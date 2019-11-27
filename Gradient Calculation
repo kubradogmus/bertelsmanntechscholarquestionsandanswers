@@ -1,0 +1,10 @@
+QUİZ QUESTİON
+What does the scalar we obtained above signify? (Check all that are true.)
+A)closer the label to the prediction, larger the gradient
+B)closer the label to the prediction, smaller the gradient
+C)farther the label from the prediction, larger the gradient
+D)farther the label from the prediction, smaller the gradient
+
+Answer question is :
+closer the label to the prediction, smaller the gradient
+farther the label from the prediction, larger the gradient
