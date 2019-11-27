@@ -1,0 +1,18 @@
+# Write a function that takes as input a list of numbers, and returns
+# the list of values given by the softmax function.
+
+import numpy as np
+
+def softmax(L):
+    
+    a=np.exp(L)
+    
+    suma = sum(a)
+    
+    result = []
+    
+    for i in a :
+        
+        result.append(i/suma)
+        
+    return result
